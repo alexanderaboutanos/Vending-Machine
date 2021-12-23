@@ -1,0 +1,30 @@
+/** @format */
+
+.Vending-Machine {
+  background: url("./vending-machine.jpg") no-repeat center center fixed;
+  background-size: cover;
+  height: 800px;
+  width: 1500px;
+}
+
+.Vending-Machine h1 {
+  margin: 0;
+  padding-top: 20px;
+}
+
+.Vending-Machine div {
+  top: 50px;
+  margin: 50px;
+  vertical-align: baseline;
+  height: 50px;
+  width: 200px;
+  border-style: initial;
+  border-color: black;
+  background-color: slateblue;
+  color: white;
+}
+
+.Vending-Machine div a {
+  color: white;
+  font-size: 1.5rem;
+}
